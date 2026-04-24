@@ -1,0 +1,131 @@
+{
+  "dal": {
+    "name": "Dal Tadka",
+    "aliases": ["dal", "daal", "lentil", "toor dal", "arhar", "moong dal"],
+    "total_time": "25 mins",
+    "steps": [
+      "Wash 1 cup toor dal and soak for 15 mins.",
+      "Add dal, 2.5 cups water, salt, turmeric, and 1 tomato (chopped) to the Hawkins cooker.",
+      "Close lid and pressure cook on high flame for 3 whistles.",
+      "Turn off flame. Wait for pressure to release naturally (10 mins).",
+      "Open and mash the dal lightly.",
+      "Heat 2 tbsp ghee in a pan. Add cumin seeds, dried red chilli, garlic, and hing.",
+      "Add onion and cook till golden. Pour tadka over dal.",
+      "Garnish with coriander and serve hot with rice or roti."
+    ],
+    "tips": "Add a pinch of asafoetida (hing) to the tadka for authentic flavour. For creamier dal, reduce water to 2 cups."
+  },
+  "rice": {
+    "name": "Steamed Rice",
+    "aliases": ["rice", "chawal", "steam rice", "plain rice", "boiled rice"],
+    "total_time": "15 mins",
+    "steps": [
+      "Wash 1 cup rice under cold water until water runs clear.",
+      "Add rice and 1.5 cups water to the Hawkins cooker.",
+      "Add a pinch of salt and ½ tsp oil (prevents sticking).",
+      "Close lid. Cook on high flame until 2 whistles.",
+      "Lower flame to minimum for 5 mins.",
+      "Turn off and wait for pressure to release (10 mins).",
+      "Fluff rice gently with a fork before serving."
+    ],
+    "tips": "The 1:1.5 rice-to-water ratio works perfectly in Hawkins cookers. Soaking rice for 20 mins reduces cooking time."
+  },
+  "biryani": {
+    "name": "Chicken Biryani",
+    "aliases": ["biryani", "biriyani", "chicken biryani", "veg biryani", "mutton biryani"],
+    "total_time": "45 mins",
+    "steps": [
+      "Marinate 500g chicken with 1 cup yogurt, spices (biryani masala, garam masala), salt, and lemon juice for 30 mins.",
+      "Wash 2 cups basmati rice and soak for 20 mins.",
+      "Heat 3 tbsp oil in Hawkins cooker. Fry sliced onions till golden brown. Remove half for garnish.",
+      "Add whole spices (bay leaf, cardamom, cloves, cinnamon) and cook for 1 min.",
+      "Add marinated chicken and cook for 10 mins, stirring occasionally.",
+      "Drain soaked rice and add to cooker. Add 2.5 cups warm water.",
+      "Add saffron milk, fried onions, mint leaves.",
+      "Close lid and give 2 whistles on high flame, then 5 mins on low.",
+      "Let pressure release naturally. Open and mix gently.",
+      "Serve with raita."
+    ],
+    "tips": "Do not over-stir after opening — the layered look makes biryani special! Use aged basmati for best results."
+  },
+  "khichdi": {
+    "name": "Khichdi",
+    "aliases": ["khichdi", "khichri", "kitchdi", "rice dal", "one pot meal"],
+    "total_time": "20 mins",
+    "steps": [
+      "Wash ½ cup rice and ½ cup moong dal together.",
+      "Heat 1 tbsp ghee in Hawkins cooker. Add cumin seeds and asafoetida.",
+      "Add 1 onion, 1 tomato, green chilli, ginger — sauté for 3 mins.",
+      "Add rice-dal mixture, turmeric, salt, and 3 cups water.",
+      "Close lid. Cook for 3-4 whistles on medium flame.",
+      "Let pressure release naturally.",
+      "Open and mix. Adjust consistency with warm water.",
+      "Top with a generous spoon of ghee before serving."
+    ],
+    "tips": "For a smoother khichdi, add 4 cups water. Great with pickle and papad!"
+  },
+  "rajma": {
+    "name": "Rajma Masala",
+    "aliases": ["rajma", "kidney beans", "red beans", "rajma chawal"],
+    "total_time": "40 mins",
+    "steps": [
+      "Soak 1 cup rajma overnight (8-10 hours).",
+      "Pressure cook soaked rajma with 3 cups water and salt for 5 whistles.",
+      "Let pressure release naturally. Check that rajma is soft.",
+      "Heat oil in a pan. Add onion paste and cook till golden (8 mins).",
+      "Add ginger-garlic paste, tomato puree, and all spices. Cook till oil separates.",
+      "Add cooked rajma with its water to the masala.",
+      "Simmer for 10 mins till gravy thickens.",
+      "Garnish with butter and fresh coriander. Serve with steamed rice."
+    ],
+    "tips": "Don't skip overnight soaking — it drastically reduces cooking time and makes rajma easier to digest."
+  },
+  "pulao": {
+    "name": "Vegetable Pulao",
+    "aliases": ["pulao", "pilaf", "veg pulao", "vegetable rice", "mixed rice"],
+    "total_time": "25 mins",
+    "steps": [
+      "Wash and soak 1 cup basmati rice for 20 mins.",
+      "Heat 2 tbsp ghee in Hawkins cooker. Add whole spices and bay leaf.",
+      "Add sliced onion and cook till translucent.",
+      "Add mixed vegetables (carrot, peas, beans, potato), salt, and spices.",
+      "Drain rice and add. Mix gently for 2 mins.",
+      "Add 1.5 cups water and check seasoning.",
+      "Close lid. Give 2 whistles on high, then 3 mins on low flame.",
+      "Let pressure release. Fluff with fork and serve hot."
+    ],
+    "tips": "Adding a tablespoon of lemon juice brightens the flavours beautifully."
+  },
+  "halwa": {
+    "name": "Suji Halwa",
+    "aliases": ["halwa", "halva", "suji halwa", "semolina halwa", "sooji"],
+    "total_time": "20 mins",
+    "steps": [
+      "Heat 3 tbsp ghee in Hawkins pressure cooker (open, without lid).",
+      "Add 1 cup semolina (suji) and roast on low flame, stirring continuously for 5-7 mins till golden.",
+      "Add 2 cups warm water carefully (it will splutter) and mix quickly.",
+      "Add ¾ cup sugar and cardamom powder. Mix well.",
+      "Close lid. Give 1 whistle on low flame. Turn off.",
+      "Let pressure release. Open and stir vigorously.",
+      "Garnish with cashews fried in ghee and raisins.",
+      "Serve warm."
+    ],
+    "tips": "Roasting suji properly is the secret — it should smell nutty before you add water."
+  },
+  "soup": {
+    "name": "Tomato Soup",
+    "aliases": ["soup", "tomato soup", "vegetable soup", "cream soup"],
+    "total_time": "20 mins",
+    "steps": [
+      "Add 4 tomatoes (quartered), 1 onion, 3 garlic cloves, ½ carrot, and 1 cup water to Hawkins cooker.",
+      "Close lid. Give 3 whistles on high flame.",
+      "Let pressure release. Cool slightly.",
+      "Blend the cooked mixture to a smooth puree.",
+      "Strain through a sieve for a silky smooth soup.",
+      "Return to pot. Add salt, pepper, sugar, and cream.",
+      "Simmer for 5 mins. Adjust consistency.",
+      "Serve hot with croutons and a drizzle of cream."
+    ],
+    "tips": "Add a pinch of sugar to balance the acidity of tomatoes."
+  }
+}
