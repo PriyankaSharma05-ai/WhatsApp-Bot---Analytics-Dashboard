@@ -14,7 +14,7 @@ st.set_page_config(
 )
 
 # ---- Config ----
-API_BASE = "http://localhost:5000/api"
+API_BASE = "https://web-production-f7463.up.railway.app/api"
 
 st.title("🍲 Hawkins WhatsApp Bot — Analytics Dashboard")
 st.caption("Live metrics from your WhatsApp AI Assistant")
